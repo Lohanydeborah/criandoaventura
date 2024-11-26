@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(133, 69, 252);
+    color: white;
+    font-family: "Protest Revolution", serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 700px;
+  margin: 0;
+}
+
+button{
+    background-color: brown;
+    color: black;
+    font-family: "Protest Revolution", serif;
+}
+.passo.ativo {
+  display:block;
+}
+
+.passo.ativo{
+  display: block;
+}
